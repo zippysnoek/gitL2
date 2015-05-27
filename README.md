@@ -25,4 +25,6 @@ Learning markup languages (markdown / latex / html)
 
 #### this is a level 4 heading
 
-#####this is a level 5 heading
+##### this is a level 5 heading
+
+The mouse does not work in the terminal. Use your curser!
